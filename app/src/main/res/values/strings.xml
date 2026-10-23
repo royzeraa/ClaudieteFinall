@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Claudietefinal</string>
+    <string name="titulo_principal">Mi Galería Multimedia</string>
+    <string name="btn_audio_play">▶ Escuchar audio</string>
+    <string name="btn_audio_pause">⏸ Pausar audio</string>
+    <string name="btn_animar">✨ Animar imagen</string>
+    <string name="btn_video">🎬 Ver video</string>
+    <string name="msg_permiso_ok">Permiso concedido</string>
+    <string name="msg_permiso_no">Permiso denegado</string>
+    <string name="msg_audio_error">No se pudo cargar el audio</string>
+    <string name="msg_audio_fin">El audio terminó</string>
+</resources>
